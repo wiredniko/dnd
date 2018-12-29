@@ -60,7 +60,7 @@ Illumination: dimly lit (glitter rocks)
     * A tiny sketch portrait of a goblin
     * A rectangular metal device with two tiny metal cups on one end (Investigation DC: 15 throws sparks when wet)
 * **Giant Fire Beetles**: 3d6 (11) - MM 325 - CR 0
-    * Can harvest glowing glands of beetles as a light source. (Nature DC: 10 to extract)
+    * Can harvest glowing glands of beetles as a light source. (Survival DC: 10 to extract)
 
 ### Day 3: Escaped Slaves
 Marching Order: single file
