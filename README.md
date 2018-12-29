@@ -10,6 +10,7 @@ My DM notes...mostly
 (Skill DC: Num Outcome) - Skill check with a DC of Num. Ex. Investigation DC: 10 locate hidden door => Roll an investigation check with a DC of 10, if successful you find a hidden door 
 
 ### Abbreviations
+DMG - Dungeon Master's Guide
 MM - Monster Manual
 CR - Combat Rating per D&amp;D monster manual
 POI - Points of Interest
