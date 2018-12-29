@@ -34,7 +34,7 @@
 **Additional resting triggers additional encounter roll**
 8 days worth of rolls
 
-|Day|Pace (mi)|Pursuit|Starting Food (lbs)|Foraged|Consumed|Staring Water (L)|Foraged|Consumed|Day Encounter|Night Encounter|
+|Day|Pace (mi)|Pursuit|Starting Food (lbs)|Foraged|Consumed|Staring Water (gal)|Foraged|Consumed|Day Encounter|Night Encounter|
 |---|---|---|---|---|---|---|---|---|---|---|
 |1  |   |   |   |   |   |   |   |   |No encounter|No encounter|
 |2  |   |   |   |   |   |   |   |   |No encounter|Ruins - Giant Fire Beetles|
