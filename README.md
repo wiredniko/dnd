@@ -9,8 +9,10 @@ My DM notes...mostly
 **Face McStick** - mostly used for names, occasionally for super important stuff
 (Skill DC: Num Outcome) - Skill check with a DC of Num. Ex. Investigation DC: 10 locate hidden door => Roll an investigation check with a DC of 10, if successful you find a hidden door 
 
+### Abbreviations
 MM - Monster Manual
 CR - Combat Rating per D&amp;D monster manual
+POI - Points of Interest
 
 ### Note related notes
 * If it's a bunch of DM notes clustered together I tend to skip the (dm notes) convention
